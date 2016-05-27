@@ -4,9 +4,9 @@ alert("hi");
 
 console.log("Hello");
 
-setTimeout(function(){ 
+setTimeout(function() { 
   alert("Loaded"); 
-}, 0);
+}, 100);
 
 setTimeout(function(){ 
   alert("Hello"); 
